@@ -1,0 +1,99 @@
+body{
+    background-color: whitesmoke;
+}
+
+.business{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.nav-link{
+    float: left;
+    color: cornsilk;
+}
+
+.nav-link > li {
+    margin-left: 40px;
+    padding-bottom: 3;
+    float: left;
+    position: relative;
+    display: block;
+}
+
+
+.carousel-item{
+    height: 400px;
+    object-fit: contain;  
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon{
+background-color: black;
+border-radius: 50%;
+}
+
+.home .services {
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+    line-height: 28px;
+    height: 280px;
+    margin: 15px 0px;
+}
+
+.home{
+    margin-top: 40px;
+margin-bottom: 40px;
+}
+
+.text-header{
+    margin-top: 30px;
+}
+
+.form{
+    margin: 40px;
+    padding: 10px;
+    font-size: 15px; 
+}
+
+.form-input{
+    height: 50px;
+    width: 500px;
+    font-size: medium;
+    color: black;
+    display: inline
+}
+
+.textarea{
+    width: 500px;
+    height: 100px;
+}
+
+.button{
+    height: 50px;
+    width: 200px;
+}
+
+#box .col-md-3{
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px groove rgb(10, 10, 10);
+    text-align: center;
+}
+
+.business .item{
+    background-color: white;
+    border: 1px groove white;
+    text-align: center;
+    margin: 10px;
+}
+
+
+footer{
+    background-color: rgb(141, 17, 100);
+    margin-top: 50px;
+}
+
+#float{
+    float: right;
+}
